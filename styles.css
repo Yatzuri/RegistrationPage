@@ -1,0 +1,27 @@
+.body {
+    background-color:  rgb(91, 146, 218);
+}
+
+.formSection{
+    margin: 0 auto;
+    top: 5;
+    width: 300px;
+    height: 600px;
+}
+
+.inputSection{
+    background-color: white;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 1600px;
+    height: 55px;
+    text-align: right;
+}
+
+.buttonSection{
+    background-color: rgb(48, 51, 201);
+    width: 25;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+}
